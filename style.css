@@ -106,7 +106,8 @@ ul {
     top: 0;
     left: 0;
     z-index: -1;
-    background-color: rgba(0, 0, 0, 0.4); }
+    background-color: rgba(0, 0, 0, 0.4);
+   }
 
 .bg-img {
   background-position: center center !important;
@@ -702,6 +703,10 @@ input:required {
         position: relative;
         z-index: 1;
         background-color: #000;
+    }
+    .nav-brand img{
+      height: 50px;
+      
     }
     }
   .single-welcome-slide .welcome-text {
