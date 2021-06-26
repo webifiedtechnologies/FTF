@@ -925,7 +925,8 @@ input:required {
   box-shadow: 3px 0 15px -1px rgba(0, 0, 0, 0.15);
   position: relative;
   z-index: 1;
-  margin-top: 50px; }
+  margin-top: 50px;
+height: 330px; }
   .why-choose-us-content .chosse-us-icon {
     -webkit-transition-duration: 800ms;
     -o-transition-duration: 800ms;
@@ -1454,6 +1455,7 @@ input:required {
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
   transition-duration: 500ms;
+  height: 340px;
   background-color: #ffffff; }
   .team-content-area .member-thumb {
     margin: 0 auto 40px;
