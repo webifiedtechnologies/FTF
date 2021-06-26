@@ -372,7 +372,8 @@ input:required {
   z-index: 1;
   margin-bottom: 50px; }
   .section-heading h2 {
-    font-size: 36px;
+    font-size: 39px;
+    font-weight: bolder;
     text-transform: capitalize;
     margin-bottom: 5px;
     display: block;
@@ -1665,6 +1666,6 @@ input:required {
 
 /*# sourceMappingURL=style.css.map */
 .nav-brand img{
-    height: 150px;
-    width: 160px;
+    height: 282px;
+    width: 272px;
 }
