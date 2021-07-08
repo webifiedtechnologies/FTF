@@ -1464,9 +1464,10 @@ input:required {
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
   transition-duration: 500ms;
-  height: 340px; 
+  /* height: 340px;  */
  
-  background-color: #ffffff; }
+  background-color: #ffffff; 
+}
 
  
   .team-content-area .member-thumb {
@@ -1477,7 +1478,8 @@ input:required {
       -o-transition-duration: 500ms;
       transition-duration: 500ms;
       width: 100%;
-      border-radius: 50%; }
+      /* border-radius: 50%; */
+     }
   .team-content-area h5 {
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
